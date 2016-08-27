@@ -1,1 +1,2 @@
 # PokemonGoWebspoofHack
+Thanks for Downloading
